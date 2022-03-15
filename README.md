@@ -1,7 +1,7 @@
 # dsmovie
 
 <h1>💻 Sobre o projeto </h1>
-Site de avaliações de filme construído com ReactJs e Java Spring em modelo de API Rest. O projeto é feito a partir da semana Spring React do professor Nélio Alvesm.
+Site de avaliações de filme construído com ReactJs e Java Spring em modelo de API Rest. O projeto é feito a partir da semana Spring React do professor Nélio Alves. O deploy da aplicação está feita no Netlify e a API está hospedada no Heroku, foi usado o banco de dados PostGreeSQL.
  <h1>💡Ideia do Projeto</h1>
 Aprender e exercitar a construção e implementação de API Rest com o front end em ReactJS.
  <h1>🖼️Screenshot das telas da aplicação</h1>
